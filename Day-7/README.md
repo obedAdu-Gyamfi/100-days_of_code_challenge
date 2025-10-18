@@ -1,1 +1,0 @@
-Day 8: Synchronization – Implement a barrier between processes.

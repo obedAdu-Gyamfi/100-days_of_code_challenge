@@ -1,1 +1,0 @@
-Day 9: Ring Communication – Pass a token around all ranks in order.

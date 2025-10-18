@@ -1,1 +1,0 @@
-Day 7: Scatter and Gather – Distribute data and recombine results.

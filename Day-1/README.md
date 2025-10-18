@@ -1,1 +1,0 @@
-Day 2: Communicator Basics – Each process reports its rank and hostname.
