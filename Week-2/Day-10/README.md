@@ -1,0 +1,1 @@
+Day 11: Compute average temperature using MPI_Reduce.
