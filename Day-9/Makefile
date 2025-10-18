@@ -1,5 +1,5 @@
 all: bin
-	@mpirun -np 6 ./bin 1000
+	@mpirun -np 6 ./bin 100
 
 
 bin: main.c main.h
