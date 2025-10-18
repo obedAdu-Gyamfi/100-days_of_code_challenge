@@ -1,0 +1,1 @@
+Day 12: Use MPI_Allreduce for global averaging.
