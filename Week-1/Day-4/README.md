@@ -1,0 +1,1 @@
+Day 5: Broadcasting – Root process shares data with all others.

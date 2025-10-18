@@ -1,0 +1,1 @@
+Day 3: Data Distribution – Split an array evenly across all processes.

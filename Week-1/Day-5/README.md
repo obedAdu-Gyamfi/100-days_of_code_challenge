@@ -1,0 +1,1 @@
+Day 6: Reduction – Compute the sum of local values across all processes.
